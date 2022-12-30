@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "towxml": "/towxml/towxml",
+    "i-spin": "../../dist/spin/index",
+    "i-icon": "../../dist/icon/index",
+    "i-message": "../../dist/message/index"
+  }
+}
